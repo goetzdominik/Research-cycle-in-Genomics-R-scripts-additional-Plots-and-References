@@ -6,5 +6,6 @@ Additional content includes:
   - Loading plots for the genotype data PCA
   - Refrerences
   - R scripts
+  - Proteins files for the selected proteins with their mutation highlighter
 
 If you find an error in the code or mistake, please let me know
