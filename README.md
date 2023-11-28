@@ -8,4 +8,4 @@ Additional content includes:
   - R scripts
   - Proteins files for the selected proteins with their mutation highlighter
 
-If you find an error in the code or mistake, please let me know
+If you find an error in the code or a mistake, please let me know.
